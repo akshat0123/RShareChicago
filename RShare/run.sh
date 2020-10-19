@@ -166,10 +166,10 @@ python3 bias.py -i ../data/trips/final/trips_agg_mean.csv -o ../data/analysis/tr
 python3 bias.py -i ../data/trips/final/trips_agg_mean.csv -o ../data/analysis/trips_time_pickup.csv -b "Pickup Sec/Mi";
 python3 bias.py -i ../data/trips/final/trips_agg_mean.csv -o ../data/analysis/trips_time_dropoff.csv -b "Dropoff Sec/Mi";
 
-# # Rideshare pval calculations
-# python3 pvals.py -i ../data/trips/final/trips_agg_mean.csv -o ../data/analysis/trips_price_pvals.json -p 10000 -s 1000;
-# python3 pvals.py -i ../data/trips/final/trips_agg_mean.csv -o ../data/analysis/trips_freq_pvals.json -p 10000 -s 1000 -c;
-# python3 pvals.py -i ../data/trips/final/trips_agg_mean.csv -o ../data/analysis/trips_time_pvals.json -p 10000 -s 1000 -t;
+# Rideshare pval calculations
+python3 pvals.py -i ../data/trips/final/trips_agg_mean.csv -o ../data/analysis/trips_price_pvals.json -p 10000 -s 1000;
+python3 pvals.py -i ../data/trips/final/trips_agg_mean.csv -o ../data/analysis/trips_freq_pvals.json -p 10000 -s 1000 -c;
+python3 pvals.py -i ../data/trips/final/trips_agg_mean.csv -o ../data/analysis/trips_time_pvals.json -p 10000 -s 1000 -t;
 
 # Rideshare effect size charts
 python3 direction.py -i '../data/trips/final/trips_agg_mean.csv' -o '../data/analysis/charts/price_pickup.png' -b 'Pickup Fare/Mi';
