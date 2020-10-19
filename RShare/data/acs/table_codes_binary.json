@@ -1,0 +1,255 @@
+{
+    "B01001": {
+        "columns": { 
+            "B01001003": { "column_title": "Under 5 years", "indent": 2, "parent_column_id": "B01001002" }, 
+            "B01001004": { "column_title": "5 to 9 years", "indent": 2, "parent_column_id": "B01001002" }, 
+            "B01001005": { "column_title": "10 to 14 years", "indent": 2, "parent_column_id": "B01001002" }, 
+            "B01001006": { "column_title": "15 to 17 years", "indent": 2, "parent_column_id": "B01001002" }, 
+            "B01001007": { "column_title": "18 and 19 years", "indent": 2, "parent_column_id": "B01001002" }, 
+            "B01001008": { "column_title": "20 years", "indent": 2, "parent_column_id": "B01001002" }, 
+            "B01001009": { "column_title": "21 years", "indent": 2, "parent_column_id": "B01001002" }, 
+            "B01001010": { "column_title": "22 to 24 years", "indent": 2, "parent_column_id": "B01001002" }, 
+            "B01001011": { "column_title": "25 to 29 years", "indent": 2, "parent_column_id": "B01001002" }, 
+            "B01001012": { "column_title": "30 to 34 years", "indent": 2, "parent_column_id": "B01001002" }, 
+            "B01001013": { "column_title": "35 to 39 years", "indent": 2, "parent_column_id": "B01001002" }, 
+            "B01001014": { "column_title": "40 to 44 years", "indent": 2, "parent_column_id": "B01001002" }, 
+            "B01001015": { "column_title": "45 to 49 years", "indent": 2, "parent_column_id": "B01001002" }, 
+            "B01001016": { "column_title": "50 to 54 years", "indent": 2, "parent_column_id": "B01001002" }, 
+            "B01001017": { "column_title": "55 to 59 years", "indent": 2, "parent_column_id": "B01001002" }, 
+            "B01001018": { "column_title": "60 and 61 years", "indent": 2, "parent_column_id": "B01001002" }, 
+            "B01001019": { "column_title": "62 to 64 years", "indent": 2, "parent_column_id": "B01001002" }, 
+            "B01001020": { "column_title": "65 and 66 years", "indent": 2, "parent_column_id": "B01001002" }, 
+            "B01001021": { "column_title": "67 to 69 years", "indent": 2, "parent_column_id": "B01001002" }, 
+            "B01001022": { "column_title": "70 to 74 years", "indent": 2, "parent_column_id": "B01001002" }, 
+            "B01001023": { "column_title": "75 to 79 years", "indent": 2, "parent_column_id": "B01001002" }, 
+            "B01001024": { "column_title": "80 to 84 years", "indent": 2, "parent_column_id": "B01001002" }, 
+            "B01001025": { "column_title": "85 years and over", "indent": 2, "parent_column_id": "B01001002" }, 
+            "B01001027": { "column_title": "Under 5 years", "indent": 2, "parent_column_id": "B01001026" }, 
+            "B01001028": { "column_title": "5 to 9 years", "indent": 2, "parent_column_id": "B01001026" }, 
+            "B01001029": { "column_title": "10 to 14 years", "indent": 2, "parent_column_id": "B01001026" }, 
+            "B01001030": { "column_title": "15 to 17 years", "indent": 2, "parent_column_id": "B01001026" }, 
+            "B01001031": { "column_title": "18 and 19 years", "indent": 2, "parent_column_id": "B01001026" }, 
+            "B01001032": { "column_title": "20 years", "indent": 2, "parent_column_id": "B01001026" }, 
+            "B01001033": { "column_title": "21 years", "indent": 2, "parent_column_id": "B01001026" }, 
+            "B01001034": { "column_title": "22 to 24 years", "indent": 2, "parent_column_id": "B01001026" }, 
+            "B01001035": { "column_title": "25 to 29 years", "indent": 2, "parent_column_id": "B01001026" }, 
+            "B01001036": { "column_title": "30 to 34 years", "indent": 2, "parent_column_id": "B01001026" }, 
+            "B01001037": { "column_title": "35 to 39 years", "indent": 2, "parent_column_id": "B01001026" }, 
+            "B01001038": { "column_title": "40 to 44 years", "indent": 2, "parent_column_id": "B01001026" }, 
+            "B01001039": { "column_title": "45 to 49 years", "indent": 2, "parent_column_id": "B01001026" }, 
+            "B01001040": { "column_title": "50 to 54 years", "indent": 2, "parent_column_id": "B01001026" }, 
+            "B01001041": { "column_title": "55 to 59 years", "indent": 2, "parent_column_id": "B01001026" }, 
+            "B01001042": { "column_title": "60 and 61 years", "indent": 2, "parent_column_id": "B01001026" }, 
+            "B01001043": { "column_title": "62 to 64 years", "indent": 2, "parent_column_id": "B01001026" }, 
+            "B01001044": { "column_title": "65 and 66 years", "indent": 2, "parent_column_id": "B01001026" }, 
+            "B01001045": { "column_title": "67 to 69 years", "indent": 2, "parent_column_id": "B01001026" }, 
+            "B01001046": { "column_title": "70 to 74 years", "indent": 2, "parent_column_id": "B01001026" }, 
+            "B01001047": { "column_title": "75 to 79 years", "indent": 2, "parent_column_id": "B01001026" }, 
+            "B01001048": { "column_title": "80 to 84 years", "indent": 2, "parent_column_id": "B01001026" }, 
+            "B01001049": { "column_title": "85 years and over", "indent": 2, "parent_column_id": "B01001026" } 
+        },
+        "combine": {
+            "B01001010_ext": { "columns": [ "B01001003", "B01001004", "B01001027", "B01001028", "B01001005", "B01001029", "B01001006", "B01001030", "B01001007", "B01001031", "B01001008", "B01001032", "B01001009", "B01001033", "B01001010", "B01001034", "B01001011", "B01001035", "B01001012", "B01001036", "B01001013", "B01001037" ], "column_title": "Millenials + Gen Z" },
+            "B01001023_ext": { "columns": [ "B01001014", "B01001038", "B01001015", "B01001039", "B01001016", "B01001040", "B01001017", "B01001041", "B01001018", "B01001042", "B01001019", "B01001043", "B01001020", "B01001044", "B01001021", "B01001045", "B01001022", "B01001046", "B01001023", "B01001047", "B01001024", "B01001048", "B01001025", "B01001049" ], "column_title": "Generation X + Boomer + Silent" }
+        },
+        "delete": [
+            "B01001003", "B01001004", "B01001027", "B01001028", "B01001005",
+            "B01001029", "B01001006", "B01001030", "B01001007", "B01001031",
+            "B01001008", "B01001032", "B01001009", "B01001033", "B01001010",
+            "B01001034", "B01001011", "B01001035", "B01001012", "B01001036",
+            "B01001013", "B01001037", "B01001014", "B01001038", "B01001015",
+            "B01001039", "B01001016", "B01001040", "B01001017", "B01001041",
+            "B01001018", "B01001042", "B01001019", "B01001043", "B01001020",
+            "B01001044", "B01001021", "B01001045", "B01001022", "B01001046",
+            "B01001023", "B01001047", "B01001024", "B01001048", "B01001025",
+            "B01001049"
+        ],
+        "denominator_column_id": "B01001001",
+        "simple_table_title": "Sex by Age",
+        "subject_area": "Age-Sex",
+        "table_id": "B01001",
+        "table_title": "Sex by Age",
+        "topics": [ "age", "sex" ],
+        "universe": "Total Population"
+    },
+    "B02001": {
+        "columns": { 
+            "B02001002": { "column_title": "White alone", "indent": 1, "parent_column_id": "B02001001" }, 
+            "B02001003": { "column_title": "Black or African American alone", "indent": 1, "parent_column_id": "B02001001" }, 
+            "B02001004": { "column_title": "American Indian and Alaska Native alone", "indent": 1, "parent_column_id": "B02001001" }, 
+            "B02001005": { "column_title": "Asian alone", "indent": 1, "parent_column_id": "B02001001" }, 
+            "B02001006": { "column_title": "Native Hawaiian and Other Pacific Islander alone", "indent": 1, "parent_column_id": "B02001001" }, 
+            "B02001007": { "column_title": "Some other race alone", "indent": 1, "parent_column_id": "B02001001" }, 
+            "B02001008": { "column_title": "Two or more races:", "indent": 1, "parent_column_id": "B02001001" }, 
+            "B02001009": { "column_title": "Two races including Some other race", "indent": 2, "parent_column_id": "B02001008" }, 
+            "B02001010": { "column_title": "Two races excluding Some other race, and three or more races", "indent": 2, "parent_column_id": "B02001008" } 
+        },
+        "combine": {
+            "B02001003_ext": { "columns": [ "B02001003", "B02001004", "B02001005", "B02001006", "B02001007", "B02001008", "B02001009", "B02001010" ], "column_title": "Non-White" }
+        },
+        "delete": [
+            "B02001003", "B02001004", "B02001005", "B02001006", "B02001007", "B02001008", "B02001009", "B02001010"
+        ],
+        "denominator_column_id": "B02001001",
+        "simple_table_title": "Race",
+        "subject_area": "Race",
+        "table_id": "B02001",
+        "table_title": "Race",
+        "topics": [ "race" ],
+        "universe": "Total Population"
+    },
+    "B05001": {
+        "columns": {
+            "B05001002": { "column_title": "U.S. citizen, born in the United States", "indent": 1, "parent_column_id": "B05001001" },
+            "B05001003": { "column_title": "U.S. citizen, born in Puerto Rico or U.S. Island Areas", "indent": 1, "parent_column_id": "B05001001" },
+            "B05001004": { "column_title": "U.S. citizen, born abroad of American parent(s)", "indent": 1, "parent_column_id": "B05001001" },
+            "B05001005": { "column_title": "U.S. citizen by naturalization", "indent": 1, "parent_column_id": "B05001001" },
+            "B05001006": { "column_title": "Not a U.S. citizen", "indent": 1, "parent_column_id": "B05001001" }
+        },
+        "combine": {
+            "B05001002_ext": { "columns": ["B05001002", "B05001003", "B05001004", "B05001005"], "column_title": "U.S. citizen" }
+        },
+        "delete": [
+            "B05001002", "B05001003", "B05001004", "B05001005"
+        ],
+        "denominator_column_id": "B05001001",
+        "simple_table_title": "Nativity and Citizenship Status in the United States",
+        "subject_area": "Foreign Birth",
+        "table_id": "B05001",
+        "table_title": "Nativity and Citizenship Status in the United States",
+        "topics": [ "citizenship", "place of birth" ],
+        "universe": "Total Population in the United States"
+    },
+    "B15003": {
+        "columns": { 
+            "B15003002": { "column_title": "No schooling completed", "indent": 1, "parent_column_id": "B15003001" }, 
+            "B15003003": { "column_title": "Nursery school", "indent": 1, "parent_column_id": "B15003001" }, 
+            "B15003004": { "column_title": "Kindergarten", "indent": 1, "parent_column_id": "B15003001" }, 
+            "B15003005": { "column_title": "1st grade", "indent": 1, "parent_column_id": "B15003001" }, 
+            "B15003006": { "column_title": "2nd grade", "indent": 1, "parent_column_id": "B15003001" }, 
+            "B15003007": { "column_title": "3rd grade", "indent": 1, "parent_column_id": "B15003001" }, 
+            "B15003008": { "column_title": "4th grade", "indent": 1, "parent_column_id": "B15003001" }, 
+            "B15003009": { "column_title": "5th grade", "indent": 1, "parent_column_id": "B15003001" }, 
+            "B15003010": { "column_title": "6th grade", "indent": 1, "parent_column_id": "B15003001" }, 
+            "B15003011": { "column_title": "7th grade", "indent": 1, "parent_column_id": "B15003001" }, 
+            "B15003012": { "column_title": "8th grade", "indent": 1, "parent_column_id": "B15003001" }, 
+            "B15003013": { "column_title": "9th grade", "indent": 1, "parent_column_id": "B15003001" }, 
+            "B15003014": { "column_title": "10th grade", "indent": 1, "parent_column_id": "B15003001" }, 
+            "B15003015": { "column_title": "11th grade", "indent": 1, "parent_column_id": "B15003001" }, 
+            "B15003016": { "column_title": "12th grade, no diploma", "indent": 1, "parent_column_id": "B15003001" }, 
+            "B15003017": { "column_title": "Regular high school diploma", "indent": 1, "parent_column_id": "B15003001" }, 
+            "B15003018": { "column_title": "GED or alternative credential", "indent": 1, "parent_column_id": "B15003001" }, 
+            "B15003019": { "column_title": "Some college, less than 1 year", "indent": 1, "parent_column_id": "B15003001" }, 
+            "B15003020": { "column_title": "Some college, 1 or more years, no degree", "indent": 1, "parent_column_id": "B15003001" }, 
+            "B15003021": { "column_title": "Associate's degree", "indent": 1, "parent_column_id": "B15003001" }, 
+            "B15003022": { "column_title": "Bachelor's degree", "indent": 1, "parent_column_id": "B15003001" }, 
+            "B15003023": { "column_title": "Master's degree", "indent": 1, "parent_column_id": "B15003001" }, 
+            "B15003024": { "column_title": "Professional school degree", "indent": 1, "parent_column_id": "B15003001" }, 
+            "B15003025": { "column_title": "Doctorate degree", "indent": 1, "parent_column_id": "B15003001" } 
+        },
+        "combine": {
+            "B15003017_ext": { "columns": [ "B15003002", "B15003003", "B15003004", "B15003005", "B15003006", "B15003007", "B15003008", "B15003009", "B15003010", "B15003011", "B15003012", "B15003013", "B15003014", "B15003015", "B15003016", "B15003017", "B15003018", "B15003019", "B15003020" ], "column_title": "High school diploma or less" },
+            "B15003022_ext": { "columns": [ "B15003021", "B15003022", "B15003023", "B15003024", "B15003025" ], "column_title": "College Degree" }
+        }, 
+        "delete": [
+            "B15003002", "B15003003", "B15003004", "B15003005", "B15003006",
+            "B15003007", "B15003008", "B15003009", "B15003010", "B15003011",
+            "B15003012", "B15003013", "B15003014", "B15003015", "B15003016",
+            "B15003017", "B15003018", "B15003019", "B15003020", "B15003021",
+            "B15003022", "B15003023", "B15003024", "B15003025"
+        ],
+        "denominator_column_id": "B15003001",
+        "simple_table_title": "Educational Attainment",
+        "subject_area": "Educational Attainment",
+        "table_id": "B15003",
+        "table_title": "Educational Attainment for the Population 25 Years and Over",
+        "topics": [ "education" ],
+        "universe": "Population 25 Years and Over"
+    },
+    "B19001": {
+        "columns": { 
+            "B19001002": { "column_title": "Less than $10,000", "indent": 1, "parent_column_id": "B19001001" }, 
+            "B19001003": { "column_title": "$10,000 to $14,999", "indent": 1, "parent_column_id": "B19001001" }, 
+            "B19001004": { "column_title": "$15,000 to $19,999", "indent": 1, "parent_column_id": "B19001001" }, 
+            "B19001005": { "column_title": "$20,000 to $24,999", "indent": 1, "parent_column_id": "B19001001" }, 
+            "B19001006": { "column_title": "$25,000 to $29,999", "indent": 1, "parent_column_id": "B19001001" }, 
+            "B19001007": { "column_title": "$30,000 to $34,999", "indent": 1, "parent_column_id": "B19001001" }, 
+            "B19001008": { "column_title": "$35,000 to $39,999", "indent": 1, "parent_column_id": "B19001001" }, 
+            "B19001009": { "column_title": "$40,000 to $44,999", "indent": 1, "parent_column_id": "B19001001" }, 
+            "B19001010": { "column_title": "$45,000 to $49,999", "indent": 1, "parent_column_id": "B19001001" }, 
+            "B19001011": { "column_title": "$50,000 to $59,999", "indent": 1, "parent_column_id": "B19001001" }, 
+            "B19001012": { "column_title": "$60,000 to $74,999", "indent": 1, "parent_column_id": "B19001001" }, 
+            "B19001013": { "column_title": "$75,000 to $99,999", "indent": 1, "parent_column_id": "B19001001" }, 
+            "B19001014": { "column_title": "$100,000 to $124,999", "indent": 1, "parent_column_id": "B19001001" }, 
+            "B19001015": { "column_title": "$125,000 to $149,999", "indent": 1, "parent_column_id": "B19001001" }, 
+            "B19001016": { "column_title": "$150,000 to $199,999", "indent": 1, "parent_column_id": "B19001001" }, 
+            "B19001017": { "column_title": "$200,000 or more", "indent": 1, "parent_column_id": "B19001001" } 
+        },
+        "combine": {
+            "B19001002_ext": { "columns": [ "B19001002", "B19001003", "B19001004", "B19001005" ], "column_title": "Below Poverty Line" },
+            "B19001006_ext": { "columns": [ "B19001006", "B19001007", "B19001008", "B19001009", "B19001010", "B19001011", "B19001012", "B19001013", "B19001014", "B19001015", "B19001016", "B19001017" ], "column_title": "Above Poverty Line" }
+        },
+        "delete": [
+            "B19001002", "B19001003", "B19001004", "B19001005", "B19001006",
+            "B19001007", "B19001008", "B19001009", "B19001010", "B19001011",
+            "B19001012", "B19001013", "B19001014", "B19001015", "B19001016",
+            "B19001017"
+        ],
+        "denominator_column_id": "B19001001",
+        "simple_table_title": "Household Income",
+        "subject_area": "Income",
+        "table_id": "B19001",
+        "table_title": "Household Income in the Past 12 Months (In 2018 Inflation-adjusted Dollars)",
+        "topics": [ "families", "income" ],
+        "universe": "Households"
+    },
+    "B25075": {
+        "columns": {
+            "B25075002": { "column_title": "Less than $10,000", "indent": 1, "parent_column_id": "B25075001" },
+            "B25075003": { "column_title": "$10,000 to $14,999", "indent": 1, "parent_column_id": "B25075001" },
+            "B25075004": { "column_title": "$15,000 to $19,999", "indent": 1, "parent_column_id": "B25075001" },
+            "B25075005": { "column_title": "$20,000 to $24,999", "indent": 1, "parent_column_id": "B25075001" },
+            "B25075006": { "column_title": "$25,000 to $29,999", "indent": 1, "parent_column_id": "B25075001" },
+            "B25075007": { "column_title": "$30,000 to $34,999", "indent": 1, "parent_column_id": "B25075001" },
+            "B25075008": { "column_title": "$35,000 to $39,999", "indent": 1, "parent_column_id": "B25075001" },
+            "B25075009": { "column_title": "$40,000 to $49,999", "indent": 1, "parent_column_id": "B25075001" },
+            "B25075010": { "column_title": "$50,000 to $59,999", "indent": 1, "parent_column_id": "B25075001" },
+            "B25075011": { "column_title": "$60,000 to $69,999", "indent": 1, "parent_column_id": "B25075001" },
+            "B25075012": { "column_title": "$70,000 to $79,999", "indent": 1, "parent_column_id": "B25075001" },
+            "B25075013": { "column_title": "$80,000 to $89,999", "indent": 1, "parent_column_id": "B25075001" },
+            "B25075014": { "column_title": "$90,000 to $99,999", "indent": 1, "parent_column_id": "B25075001" },
+            "B25075015": { "column_title": "$100,000 to $124,999", "indent": 1, "parent_column_id": "B25075001" },
+            "B25075016": { "column_title": "$125,000 to $149,999", "indent": 1, "parent_column_id": "B25075001" },
+            "B25075017": { "column_title": "$150,000 to $174,999", "indent": 1, "parent_column_id": "B25075001" },
+            "B25075018": { "column_title": "$175,000 to $199,999", "indent": 1, "parent_column_id": "B25075001" },
+            "B25075019": { "column_title": "$200,000 to $249,999", "indent": 1, "parent_column_id": "B25075001" },
+            "B25075020": { "column_title": "$250,000 to $299,999", "indent": 1, "parent_column_id": "B25075001" },
+            "B25075021": { "column_title": "$300,000 to $399,999", "indent": 1, "parent_column_id": "B25075001" },
+            "B25075022": { "column_title": "$400,000 to $499,999", "indent": 1, "parent_column_id": "B25075001" },
+            "B25075023": { "column_title": "$500,000 to $749,999", "indent": 1, "parent_column_id": "B25075001" },
+            "B25075024": { "column_title": "$750,000 to $999,999", "indent": 1, "parent_column_id": "B25075001" },
+            "B25075025": { "column_title": "$1,000,000 to $1,499,999", "indent": 1, "parent_column_id": "B25075001" },
+            "B25075026": { "column_title": "$1,500,000 to $1,999,999", "indent": 1, "parent_column_id": "B25075001" },
+            "B25075027": { "column_title": "$2,000,000 or more", "indent": 1, "parent_column_id": "B25075001" }
+        },
+        "combine": {
+            "B25075002_ext": { "columns": [ "B25075002", "B25075003", "B25075004", "B25075005", "B25075006", "B25075007", "B25075008", "B25075009", "B25075010", "B25075011", "B25075012", "B25075013", "B25075014", "B25075015", "B25075016", "B25075017", "B25075018", "B25075019" ], "column_title": "Below Median House Price" },
+            "B25075020_ext": { "columns": [ "B25075020", "B25075021", "B25075022", "B25075023", "B25075024", "B25075025", "B25075026", "B25075027" ], "column_title": "Above Median House Price" }
+        },
+        "delete": [
+            "B25075002", "B25075003", "B25075004", "B25075005", "B25075006",
+            "B25075007", "B25075008", "B25075009", "B25075010", "B25075011",
+            "B25075012", "B25075013", "B25075014", "B25075015", "B25075016",
+            "B25075017", "B25075018", "B25075019", "B25075020", "B25075021",
+            "B25075022", "B25075023", "B25075024", "B25075025", "B25075026",
+            "B25075027"
+        ],
+        "denominator_column_id": "B25075001",
+        "simple_table_title": "Value",
+        "subject_area": "Housing",
+        "table_id": "B25075",
+        "table_title": "Value",
+        "topics": [ "costs and value", "housing" ],
+        "universe": "Owner-Occupied Housing Units"
+    }
+}

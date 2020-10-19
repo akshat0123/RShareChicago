@@ -1,0 +1,16 @@
+{
+    "columns": [
+        "Trip ID", "Taxi ID", "Trip Start Timestamp", "Trip End Timestamp", 
+        "Trip Seconds", "Trip Miles", "Pickup Census Tract", "Dropoff Census Tract",
+        "Pickup Community Area", "Dropoff Community Area", "Fare", "Tips", "Tolls",
+        "Extras", "Trip Total", "Payment Type", "Company", "Pickup Centroid Latitude",
+        "Pickup Centroid Longitude", "Pickup Centroid Location", 
+        "Dropoff Centroid Latitude", "Dropoff Centroid Longitude", 
+        "Dropoff Centroid Location"
+    ],
+    "keep": [
+        "Trip Start Timestamp", "Trip End Timestamp", "Pickup Census Tract",
+        "Dropoff Census Tract", "Trip Seconds", "Trip Miles", "Fare", "Tips",
+        "Tolls", "Extras", "Trip Total"
+    ]
+}

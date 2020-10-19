@@ -1,0 +1,35 @@
+[
+    { 
+        "title": "Index", 
+        "type": "float" 
+    },
+    { 
+        "title": "Race", 
+        "type": "string",
+        "vals": {
+            "W": 0,
+            "B": 1,
+            "H": 1
+        }
+    },
+    { 
+        "title": "Position", 
+        "type": "string", 
+        "vals": {
+            "Lieutenant": 0,
+            "Captain": 1
+        }
+    },
+    { 
+        "title": "Oral", 
+        "type": "float" 
+    },
+    { 
+        "title": "Written", 
+        "type": "float" 
+    },
+    { 
+        "title": "Combine", 
+        "type": "float" 
+    }
+]
